@@ -1,0 +1,31 @@
+
+.wy-menu-vertical header, .wy-side-scroll, .wy-nav-side, .wy-nav-content{
+    background-color: white;
+    color: black;
+}
+body{
+    background-color: white;
+}
+a:link, a:visited {
+    color: black;
+}
+.wy-nav-top, .wy-side-nav-search{
+    background-color: white;
+}
+
+.wy-menu-vertical li.toctree-l2 a, .wy-menu-vertical li.toctree-l3 a, .wy-menu-vertical li.toctree-l4 a, .wy-menu-vertical li.toctree-l5 a, .wy-menu-vertical li.toctree-l6 a, .wy-menu-vertical li.toctree-l7 a, .wy-menu-vertical li.toctree-l8 a, .wy-menu-vertical li.toctree-l9 a, .wy-menu-vertical li.toctree-l10 a{
+    background-color: #D5DBDB;
+}
+.wy-menu-vertical li.current>a, .wy-menu-vertical li.on a:active, .reference-internal{
+    background-color: #AEB6BF;
+    color: black;
+}
+.wy-menu-vertical header, .wy-menu-vertical p.caption, .wy-side-scroll{
+    background-color: white;
+    color: black;
+
+  }
+.toctree-l1{
+    background-color: white;
+    color: black
+ }
